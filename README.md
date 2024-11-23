@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/anuragojha8355" target="blank"><img src="https://img.shields.io/twitter/follow/anuragojha8355?logo=twitter&style=for-the-badge" alt="anuragojha8355" /></a> </p>
 
-- 🌱 I’m currently learning **ML through Krish Naik's paid Udemy course,Alongside, I’m sharpening my skills in frameworks like TensorFlow, Scikit-learn, and working on foundational DSA concepts to strengthen my coding journey**
-
-- 💬 Ask me about **DSA, Machine Learning, or projects, and learning! I’d love to share insights on beginner-friendly approaches to DSA and how to kickstart ML projects.**
+- 💬 Ask me about **Data Structures & Algorithms, Machine Learning, or my experience as an engineering student balancing coding, projects, and learning! I’d love to share insights on beginner-friendly approaches to DSA and how to kickstart ML projects.**
 
 - 📫 How to reach me **aojharaj2004@gmail.com**
 
@@ -18,6 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/anuragojha8355" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anuragojha8355" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anuragojha2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuragojha2004" height="30" width="40" /></a>
 <a href="https://kaggle.com/anuragraj2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anuragraj2004" height="30" width="40" /></a>
 <a href="https://instagram.com/initial_coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="initial_coder" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/anuragojha2004" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anuragojha2004" height="30" width="40" /></a>
