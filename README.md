@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anurag</h1>
 <h3 align="center">A passionate engineering student diving deep into the realms of Data Structures & Algorithms (DSA) and Machine Learning.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=intojhanurag&label=Profile%20views&color=0e75b6&style=flat" alt="intojhanurag" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=intojhanurag" alt="intojhanurag" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/anuragojha8355" target="blank"><img src="https://img.shields.io/twitter/follow/anuragojha8355?logo=twitter&style=for-the-badge" alt="anuragojha8355" /></a> </p>
-
 - 📫 How to reach me **aojharaj2004@gmail.com**
 
 - ⚡ Fun fact: **I began my coding journey with zero experience, and now I'm diving into the world of web development and devops that starting small and staying consistent can lead to amazing growth!**
