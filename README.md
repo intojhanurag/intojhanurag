@@ -6,12 +6,14 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=intojhanurag" alt="intojhanurag" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/anuragojha8355" target="blank"><img src="https://img.shields.io/twitter/follow/anuragojha8355?logo=twitter&style=for-the-badge" alt="anuragojha8355" /></a> </p>
-
-- 💬 Ask me about **Data Structures & Algorithms, Machine Learning, or my experience as an engineering student balancing coding, projects, and learning! I’d love to share insights on beginner-friendly approaches to DSA and how to kickstart ML projects.**
+- Focused on full-stack web development using the MERN stack.  
+- Built AI-integrated projects like Yt-Learn and Calore with real-world use cases.  
+- Solved 1000+ DSA problems across LeetCode, GFG, and Codeforces.  
+- Actively contributing to open-source and participating in national hackathons.
 
 - 📫 How to reach me **aojharaj2004@gmail.com**
 
-- ⚡ Fun fact: **I began my coding journey with zero experience, and now I'm diving into the world of DSA and Machine Learning—proof that starting small and staying consistent can lead to amazing growth!**
+- ⚡ Fun fact: **I began my coding journey with zero experience, and now I'm diving into the world of web development and devops that starting small and staying consistent can lead to amazing growth!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
