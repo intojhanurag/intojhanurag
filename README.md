@@ -6,10 +6,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=intojhanurag" alt="intojhanurag" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/anuragojha8355" target="blank"><img src="https://img.shields.io/twitter/follow/anuragojha8355?logo=twitter&style=for-the-badge" alt="anuragojha8355" /></a> </p>
-- Focused on full-stack web development using the MERN stack.  
-- Built AI-integrated projects like Yt-Learn and Calore with real-world use cases.  
-- Solved 1000+ DSA problems across LeetCode, GFG, and Codeforces.  
-- Actively contributing to open-source and participating in national hackathons.
 
 - 📫 How to reach me **aojharaj2004@gmail.com**
 
