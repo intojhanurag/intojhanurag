@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Anurag</h1>
-<h3 align="center">A passionate engineering student diving deep into the realms of Data Structures & Algorithms (DSA) and Machine Learning.</h3>
 
 - 📫 How to reach me **aojharaj2004@gmail.com**
 
