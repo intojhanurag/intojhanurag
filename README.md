@@ -14,7 +14,3 @@
 <a href="https://www.leetcode.com/ojhaanurag_2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ojhaanurag_2004" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/aojhara1zu4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aojhara1zu4" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=intojhanurag&show_icons=true&locale=en&layout=compact" alt="intojhanurag" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=intojhanurag&" alt="intojhanurag" /></p>
