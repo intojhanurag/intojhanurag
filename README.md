@@ -1,5 +1,3 @@
-<img width="475" height="284" alt="Gemini_Generated_Image_5ivhjd5ivhjd5ivh (3)" src="https://github.com/user-attachments/assets/a9a62c9b-ca5c-47c7-9511-bd298788e044" />
-
 Hey there 👋  
 I'm a 21 y/o CS student, passionate about building cool stuff on the internet, exploring open-source, and constantly learning along the way.  
 
