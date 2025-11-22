@@ -23,11 +23,6 @@ I've also built several projects along the way:
   
 I've worked with MERN and Go, explored C++, A bit of Machine Learning (during first year through couple of courses). I'm currently Locked in for the next 6 months, practising algorithms, diving into CS fundamentals and learning cloud native technologies.
 
-I'm active on Slack and Discord (and of course on X), and I enjoy sharing knowledge, learning, and collaborating with like-minded developers.  
-
-I follow this tweet from [@sama](https://x.com/@sama) that inspires me:  
-> ["Post"](https://x.com/sama/status/1870527558783218106?lang=en)  
-
 Right now, I'm focused on becoming great at communication, speaking at cloud-native meetups ([first_talk](https://community.cncf.io/events/details/cncf-cloud-native-luxembourg-presents-inside-knative-from-contributor-journey-to-serverless-in-action/)), and exploring the intersection of tech and business.
 So yeah—"You can just do things."  
 
