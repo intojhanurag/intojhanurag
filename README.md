@@ -7,11 +7,12 @@ Started my journey with DSA and competitive programming in my first year (March 
 I briefly interned at a "two-days-ago funded startup," but I realized I wasn't learning much, so I left to dedicate my time fully to open source.  
 
 Here's a list of well-known organizations I've contributed to:  
-- @kubernetesio ([Link](https://github.com/kubernetes/website/issues?q=is%3Apr%20state%3Aclosed%20author%3Aintojhanurag))  
-- @KnativeProject ([Link](https://github.com/knative/func/issues?q=is%3Apr%20state%3Aclosed%20author%3Aintojhanurag))  
+- @kubernetesio ([Link](https://github.com/kubernetes/website/issues?q=is%3Apr%20state%3Aclosed%20author%3Aintojhanurag)) 
+- @KnativeProject ([Link](https://github.com/knative/func/issues?q=is%3Apr%20state%3Aclosed%20author%3Aintojhanurag))  (Due to my active and valuable contribution , Invited to join the organisation in less than 2 months)
 - @project_harbor ([Link](https://github.com/goharbor/harbor/issues?q=is%3Apr%20state%3Aclosed%20author%3Aintojhanurag))  
 - @mastra ([Link](https://github.com/mastra-ai/mastra/issues?q=is%3Apr%20state%3Aclosed%20author%3Aintojhanurag))  
-- @kagent_dev ([Link1](https://github.com/kagent-dev/kmcp/issues?q=is%3Apr%20state%3Aclosed%20author%3Aintojhanurag), [Link2](https://github.com/kagent-dev/website/issues?q=is%3Apr%20state%3Aclosed%20author%3Aintojhanurag), [Link3](https://github.com/kagent-dev/kagent/issues?q=is%3Apr%20state%3Aclosed%20author%3Aintojhanurag))  
+- @kagent_dev ([Link1](https://github.com/kagent-dev/kmcp/issues?q=is%3Apr%20state%3Aclosed%20author%3Aintojhanurag), [Link2](https://github.com/kagent-dev/website/issues?q=is%3Apr%20state%3Aclosed%20author%3Aintojhanurag), [Link3](https://github.com/kagent-dev/kagent/issues?q=is%3Apr%20state%3Aclosed%20author%3Aintojhanurag))
+- @argo-cd ([Link](https://github.com/argoproj/argo-cd/issues?q=is%3Apr%20state%3Aclosed%20author%3Aintojhanurag))
 
 The number is still increasing — and it won't stop.  
 
