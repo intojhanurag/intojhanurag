@@ -2,7 +2,7 @@ Hey there 👋
 I'm a 21 y/o CS student, passionate about building cool stuff on the internet, exploring open source, and constantly learning along the way.  
 
 My Journey So Far  
-Started my journey with DSA and competitive programming in my first year (March 2024), solving problems ([Proof](https://codolio.com/profile/5TCQCjMM)) and strengthening my fundamentals. Later, I discovered the open-source community — and honestly, I loved it. Since then, I've been contributing actively to cloud-native technologies and backend systems.  
+Started my journey with DSA and competitive programming in my first year (March 2024), solving problems ([Proof](https://codolio.com/profile/5TCQCjMM)) and participated in multiple hackathons (Lol, I din't win, but learned a lot)  strengthening my fundamentals. Later, I discovered the open-source community — and honestly, I loved it. Since then, I've been contributing actively to cloud-native technologies and backend systems.
 
 I briefly interned at a "two-days-ago funded startup," but I realized I wasn't learning much, so I left to dedicate my time fully to open source.  
 
@@ -22,7 +22,7 @@ I've also built several projects along the way:
 - **Yt-Learn**  
 - Plus many DevOps-related projects you can explore on my GitHub.  
 
-I've worked with MERN and Go, explored C++, and a bit of machine learning (during first year through a couple of courses). I'm currently locked in for the next 6 months, practising algorithms, diving into CS fundamentals, and learning cloud-native technologies.
+I've worked with MERN and Go, explored C++, and a bit of machine learning (during first year through a couple of courses). I'm currently locked in for the next 6 months, practising algorithms, diving into CS fundamentals, and learning cloud-native technologies. I also write tech blogs on Medium ( (Link)[https://medium.com/@aojharaj2004] )
 
 Right now, I'm focused on becoming great at communication, speaking at cloud-native meetups ([first_talk](https://community.cncf.io/events/details/cncf-cloud-native-luxembourg-presents-inside-knative-from-contributor-journey-to-serverless-in-action/)), and exploring the intersection of tech and business.  
 So yeah — "You can just do things."  
