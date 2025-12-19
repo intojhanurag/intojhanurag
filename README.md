@@ -10,11 +10,10 @@ Here's a list of well-known organizations I've contributed to:
 - @kubernetesio ( [Link](https://github.com/kubernetes/website/issues?q=is%3Apr%20state%3Aclosed%20author%3Aintojhanurag) ) 
 - @KnativeProject ([Link](https://github.com/knative/func/issues?q=is%3Apr%20state%3Aclosed%20author%3Aintojhanurag))  (Due to my active and valuable contribution , Invited to join the organisation in less than 2 months)
 - @project_harbor ( [Link](https://github.com/goharbor/harbor/issues?q=is%3Apr%20state%3Aclosed%20author%3Aintojhanurag) )  
-- @mastra(YC W25) ( [Link](https://github.com/mastra-ai/mastra/issues?q=is%3Apr%20state%3Aclosed%20author%3Aintojhanurag) )  
 - @kagent_dev ( [Link1](https://github.com/kagent-dev/kmcp/issues?q=is%3Apr%20state%3Aclosed%20author%3Aintojhanurag), [Link2](https://github.com/kagent-dev/website/issues?q=is%3Apr%20state%3Aclosed%20author%3Aintojhanurag), [Link3](https://github.com/kagent-dev/kagent/issues?q=is%3Apr%20state%3Aclosed%20author%3Aintojhanurag) )
 - @argo-cd ( [Link](https://github.com/argoproj/argo-cd/issues?q=is%3Apr%20state%3Aclosed%20author%3Aintojhanurag) )
 
-The number is still increasing — and it won't stop.  
+The number is still increasing — and it won't stop. (Reach out to me , i will show you my latest work) 
 
 I've also built several projects along the way:  
 - **One-Password**  
