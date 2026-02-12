@@ -18,9 +18,11 @@ Here's a list of well-known organizations I've contributed to:
 The number is still increasing — and it won't stop. (Reach out to me , i will show you my latest work) 
 
 I've also built several projects along the way:  
-- **One-Password**  
-- **npm-regret**  
-- **Yt-Learn**  
+- (**One-Password**)[https://github.com/intojhanurag/one-password]  
+- (**npm-regret**)[https://github.com/intojhanurag/npm-regret] 
+- (**Yt-Learn**)[https://github.com/intojhanurag/Yt-Learn]
+- (**Agent-Cloud**)[https://github.com/intojhanurag/agent-cloud]
+- (**spiffe-fun**)[https://github.com/intojhanurag/spiffe-fun]
 - Plus many DevOps-related projects you can explore on my GitHub.  
 
 I've worked with MERN and Go, explored C++, and a bit of machine learning (during first year through a couple of courses). I'm currently locked in for the next 6 months, practising algorithms, diving into CS fundamentals, and learning cloud-native technologies. I also write tech blogs on Medium ( [Link](https://medium.com/@aojharaj2004) )
