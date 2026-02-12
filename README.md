@@ -12,6 +12,9 @@ Here's a list of well-known organizations I've contributed to:
 - @project_harbor ( [Link](https://github.com/goharbor/harbor/issues?q=is%3Apr%20state%3Aclosed%20author%3Aintojhanurag) )  
 - @kagent_dev ( [Link1](https://github.com/kagent-dev/kmcp/issues?q=is%3Apr%20state%3Aclosed%20author%3Aintojhanurag), [Link2](https://github.com/kagent-dev/website/issues?q=is%3Apr%20state%3Aclosed%20author%3Aintojhanurag), [Link3](https://github.com/kagent-dev/kagent/issues?q=is%3Apr%20state%3Aclosed%20author%3Aintojhanurag) )
 - @argo-cd ( [Link](https://github.com/argoproj/argo-cd/issues?q=is%3Apr%20state%3Aclosed%20author%3Aintojhanurag) )
+- @harbor-satellite ( [Link](https://github.com/container-registry/harbor-satellite/issues?q=is%3Apr%20is%3Amerged%20state%3Aclosed%20author%3Aintojhanurag) )
+- @headlamp-k8s ( [Link](https://github.com/headlamp-k8s/plugins/issues?q=is%3Apr%20state%3Aclosed%20author%3Aintojhanurag) )
+- 
 
 The number is still increasing — and it won't stop. (Reach out to me , i will show you my latest work) 
 
