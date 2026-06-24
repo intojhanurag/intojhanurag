@@ -2,9 +2,7 @@ Hey there 👋
 I'm a 21 y/o CS student, passionate about building cool stuff on the internet, exploring open source, and constantly learning along the way.  
 
 My Journey So Far  
-Started my journey with DSA and competitive programming in my first year (March 2024), solving problems ( [Proof](https://codolio.com/profile/5TCQCjMM) ) and participated in multiple hackathons (Lol, I din't win, but learned a lot)  strengthening my fundamentals. Later, I discovered the open-source community — and honestly, I loved it. Since then, I've been contributing actively to cloud-native technologies and backend systems.
-
-I briefly interned at a "two-days-ago funded startup," but I realized I wasn't learning much, so I left to dedicate my time fully to open source.  
+Started my journey with DSA and competitive programming in my first year (March 2024), solving problems ( [Proof](https://codolio.com/profile/5TCQCjMM) ) and participated in multiple hackathons (Lol, I din't win, but learned a lot)  strengthening my fundamentals. Later, I discovered the open-source community — and honestly, I loved it. Since then, I've been contributing actively to cloud-native technologies and backend systems.  
 
 Here's a list of well-known organizations I've contributed to:  
 - @kubernetesio ( [Link](https://github.com/kubernetes/website/issues?q=is%3Apr%20state%3Aclosed%20author%3Aintojhanurag) ) 
