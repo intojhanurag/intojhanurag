@@ -26,9 +26,9 @@ I've also built several projects along the way:
 - [**spiffe-fun**](https://github.com/intojhanurag/spiffe-fun)
 - Plus many DevOps-related projects you can explore on my GitHub.
 
-I've worked with MERN and Go, explored C++, and a bit of machine learning (during first year through a couple of courses). I'm currently locked in for the next 6 months, practising algorithms, diving into CS fundamentals, and learning cloud-native technologies. I also write tech blogs on Medium ( [Link](https://medium.com/@aojharaj2004) )
+I'm currently locked in for the next 6 months, practising algorithms, diving into CS fundamentals, and learning cloud-native technologies. I also write tech blogs on Medium ( [Link](https://medium.com/@aojharaj2004) )
 
-Right now, I'm focused on becoming great at communication, speaking at cloud-native meetups ( [first_talk](https://community.cncf.io/events/details/cncf-cloud-native-luxembourg-presents-inside-knative-from-contributor-journey-to-serverless-in-action/) ), and exploring the intersection of tech and business.  
+Right now, I'm focused on learning with community, speaking at tech-meetups ( [first_talk](https://community.cncf.io/events/details/cncf-cloud-native-luxembourg-presents-inside-knative-from-contributor-journey-to-serverless-in-action/) ), and exploring the intersection of tech and business.  
 So yeah — "You can just do things."  
 
 Feel free to connect with me on my socials, always open to chat, collaborate, or just geek out over cool tech stuff.
