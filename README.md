@@ -1,5 +1,3 @@
-# Hi there
-
 I am Anurag, a Software Engineer and Open Source Developer.
 
 **Currently:**
